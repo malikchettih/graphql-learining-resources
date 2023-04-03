@@ -1,2 +1,2 @@
 # graphql-learining-resources
-GraphQL Learninf Resources
+GraphQL Learning Resources
